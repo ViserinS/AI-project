@@ -18,4 +18,4 @@ This paper investigates the impact of various data augmentation techniques on mo
 
 #### Augmented data
 
-![Cifar100](img/tradition.png)
+![Cifar100](img/traditional.png)
